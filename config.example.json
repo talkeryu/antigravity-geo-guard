@@ -1,0 +1,13 @@
+{
+  "group": "节点选择",
+  "mihomo_socket": "",
+  "mihomo_api": "",
+  "mihomo_secret": "",
+  "candidates": [],
+  "avoid": ["直连", "中转", "香港", "台湾", "中国", "relay", "回国", "CN2"],
+  "settle_seconds": 25,
+  "respawn_timeout": 45,
+  "guard_interval": 60,
+  "cooldown_seconds": 180,
+  "max_try": 4
+}
